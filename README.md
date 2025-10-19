@@ -1,7 +1,7 @@
 # awesome-ai-engineering
 All Things and Resources to be a better AI Engineer
 
-#Fundamentals
+# Fundamentals
 
 - [leverage/learn/dev](https://www.leverage.to/learn/dev)
 
